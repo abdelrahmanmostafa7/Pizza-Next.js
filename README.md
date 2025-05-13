@@ -2,6 +2,7 @@
 
 Welcome to **Massimo Pizza**, a modern and responsive pizza delivery web application built with **Next.js** and **Tailwind CSS**. This project showcases a sleek design, dynamic components, and a user-friendly interface for an enhanced customer experience.
 
+- **Live Demo** : https://pizza-next-js-six.vercel.app/
 ## 🚀 Features
 
 - **Dynamic Slider**: Highlighting key promotions and offers.
